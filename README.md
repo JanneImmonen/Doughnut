@@ -12,6 +12,7 @@
 🗃 To get started:
 ```
 gcc -o donut donut.c -lm
+
 ./donut
 ```
 ---
